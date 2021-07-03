@@ -3,3 +3,4 @@ This mod allows players to smelt diamond tools into shards and assemble 9 of the
 
 # Compatibility
 Currently only supports Fabric 1.17.
+Get fabric at: https://fabricmc.net/
