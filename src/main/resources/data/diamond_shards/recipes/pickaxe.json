@@ -1,0 +1,10 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "minecraft:diamond_pickaxe"
+    },
+    "result": "diamond_shards:diamond_shard",
+    "experience": 0.2,
+    "cookingtime": 200,
+    "group": "diamond_shards"
+}

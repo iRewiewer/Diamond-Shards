@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "diamondshards",
+  "version": "${version}",
+
+  "name": "Diamond Shards",
+  "description": "Smelt diamond tools into shards and assemble 9 of them back into a diamond!",
+  "authors": [
+    "iRewiewer"
+  ],
+  "contact": {
+    "homepage": "https://irewiewer.net",
+    "sources": "https://github.com/iRewiewer/Diamond-Shards"
+  },
+
+  "license": "GPL-3.0",
+  "icon": "assets/diamond_shards/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.irewiewer.diamondshards.Main"
+    ]
+  },
+  "mixins": [
+    
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.17.x",
+    "java": ">=16"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
