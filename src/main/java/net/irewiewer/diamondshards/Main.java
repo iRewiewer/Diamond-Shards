@@ -1,4 +1,4 @@
-package net.irewiewer.diamond_shards;
+package net.irewiewer.diamondshards;
 
 import net.fabricmc.api.ModInitializer;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
@@ -10,7 +10,7 @@ import net.minecraft.util.registry.Registry;
 public class Main implements ModInitializer {
     
     // Mod ID
-    public static final String modid = "diamond_shards";
+    public static final String modid = "diamondshards";
 
     // Instance of diamond_shard item
     public static final Item diamond_shard = new Item(new FabricItemSettings().group(ItemGroup.MATERIALS));
