@@ -3,8 +3,8 @@
     "ingredient": {
         "item": "minecraft:diamond_shovel"
     },
-    "result": "diamond_shards:diamond_shard",
+    "result": "diamondshards:diamond_shard",
     "experience": 0.2,
     "cookingtime": 200,
-    "group": "diamond_shards"
+    "group": "diamondshards"
 }

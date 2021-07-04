@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "id": "diamond_shards",
+  "id": "diamondshards",
   "version": "${version}",
 
   "name": "Diamond Shards",
@@ -14,7 +14,7 @@
   },
 
   "license": "GPL-3.0",
-  "icon": "assets/diamond_shards/icon.png",
+  "icon": "assets/diamondshards/icon.png",
 
   "environment": "*",
   "entrypoints": {
