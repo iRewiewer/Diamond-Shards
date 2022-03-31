@@ -7,4 +7,4 @@ Get fabric at: https://fabricmc.net/
 
 Available on Curseforge: https://www.curseforge.com/minecraft/mc-mods/the-diamond-shards
 
-![Diamond Shard](https://media.discordapp.net/attachments/754812961733738526/861257383325990922/unknown.png)
+![Diamond Shard](https://media.discordapp.net/attachments/916441533983637514/958979165753843722/unknown.png)
